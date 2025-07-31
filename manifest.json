@@ -1,0 +1,29 @@
+{
+  "short_name": "Nibso",
+  "name": "Nibso Business Dashboard",
+  "description": "An all-in-one dashboard for managing sales, security, reports, inventory, and generating AI-powered receipts for various business sectors like hospitals, gas stations, and restaurants.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a"
+}
